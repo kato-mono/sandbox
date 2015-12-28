@@ -2,4 +2,6 @@ __TEST__
 
 sourcetree
 
-changed row
+__mdでチェックボックス__
+- [ ]a
+- [ ]b
