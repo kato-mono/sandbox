@@ -4,4 +4,4 @@ sourcetree
 
 __mdでチェックボックス__
 - [ ] a
-- [ ] b
+- [x] b
